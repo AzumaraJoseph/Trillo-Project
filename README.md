@@ -24,6 +24,11 @@ This project is forked from [Original Repository](https://github.com/jonasschmed
 - Modern CSS with Flexbox and Grid
 - CSS animations
 
+## Deployed
+
+Deployed on [GitHub Pages](https://AzumaraJoseph.github.io/Trillo-Project)
+
+
 ## Built With
 - HTML
 - CSS
