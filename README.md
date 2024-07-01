@@ -9,7 +9,7 @@ This project is forked from [Original Repository](https://github.com/jonasschmed
 ## Features
 - Responsive design
 - Modern CSS with Flexbox and Grid
-- JavaScript for interactive elements
+- CSS animations
 
 ## Built With
 - HTML
