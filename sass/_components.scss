@@ -1,11 +1,9 @@
-////////////////////////////
 // LOGO
 .logo {
     height: 3.25rem;
     margin-left: 2rem;
 }
 
-////////////////////////////
 // SEARCH
 .search {
     flex: 0 0 40%;
@@ -68,7 +66,6 @@
     }
 }
 
-////////////////////////////
 // USER
 .user-nav {
     align-self: stretch;
@@ -125,7 +122,6 @@
     }  
 }
 
-////////////////////////////
 // SIDE NAVIGATION
 .side-nav {
     font-size: 1.4rem;
@@ -217,7 +213,6 @@
     }
 }
 
-////////////////////////////
 // LEGAL TEXT
 .legal {
     font-size: 1.2rem;
@@ -230,7 +225,6 @@
     }
 }
 
-////////////////////////////
 // GALLERY
 .gallery {
     display: flex;
@@ -241,7 +235,6 @@
     }
 }
 
-////////////////////////////
 // OVERVIEW
 .overview {
     border-bottom: var(--line);
@@ -303,7 +296,7 @@
     &__rating-average {
         font-size: 2.25rem;
         font-weight: 300;
-        margin-bottom: -3px; //to slightly reduce the margin from the rating count
+        margin-bottom: -3px;
 
         @media only screen and (max-width: $bp-small) {
             font-size: 1.75rem;
@@ -320,7 +313,6 @@
     }
 }
 
-////////////////////////////
 // BTN INLINE
 .btn-inline {
     border: none;
@@ -346,7 +338,6 @@
         }
     }
 
-    
     &:focus {
         outline: none;
         -webkit-animation: pulsate 1s infinite;
@@ -389,14 +380,11 @@
     }
 }
 
-////////////////////////////
 // PARAGRAPH
 .paragraph:not(:last-of-type) {
     margin-bottom: 2rem;
 }
 
-
-////////////////////////////
 // LIST
 .list {
     list-style: none;
@@ -436,7 +424,6 @@
     }
 }
 
-////////////////////////////
 // RECOMMEND
 .recommend {
     font-size: 1.3rem;
@@ -464,7 +451,6 @@
     }
 }
 
-////////////////////////////
 // REVIEWS
 .review {
     background-color: #fff;
@@ -532,7 +518,6 @@
     font-weight: 300;
  }
 
- ////////////////////////////
 // cALL TO ACTION
 .cta {
     padding: 3.5rem 0;
@@ -550,7 +535,6 @@
     }
 }
 
- ////////////////////////////
 // BUTTON
 .btn {
     font-size: 1.5rem;
