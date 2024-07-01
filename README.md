@@ -1,7 +1,7 @@
 # Trillo-Project
 Trillo is a fictional travel booking service. This project demonstrates a modern web application built with HTML, CSS, and SCSS.
 ## Live Demo
-Check out the app live demo [here](https://trillo.netlify.app/).
+Check out the live app [here](https://trillo.netlify.app/).
 
 ## Forked from
 This project is forked from [Original Repository](https://github.com/jonasschmedtmann/advanced-css-course/tree/master/Trillo).
