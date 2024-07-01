@@ -1,10 +1,10 @@
-# Trillo-project
+# Trillo-Project
 Omnifood is a fictional food delivery service. This project showcases a modern web app built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 Check out the app live demo [here](http://127.0.0.1:8080/).
 
-## Forked From
+## Forked from
 This project is forked from [Original Repository](https://github.com/jonasschmedtmann/advanced-css-course/tree/master/Trillo).
 
 ## Features
@@ -13,7 +13,7 @@ This project is forked from [Original Repository](https://github.com/jonasschmed
 - JavaScript for interactive elements
 
 ## Built With
-- JavaScript
 - HTML
 - CSS
+- SCSS
 - Iconic Framework Icons
