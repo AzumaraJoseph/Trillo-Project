@@ -1,6 +1,5 @@
 # Trillo-Project
-Omnifood is a fictional food delivery service. This project showcases a modern web app built with HTML, CSS, and JavaScript.
-
+Trillo is a fictional travel booking service. This project demonstrates a modern web application built with HTML, CSS, and SCSS.
 ## Live Demo
 Check out the app live demo [here](http://127.0.0.1:8080/).
 
