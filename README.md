@@ -7,7 +7,7 @@ Besides grid, the course covers the usage of SVG icons, BEM methodology, respons
 Check out the live app [here](https://trillo.netlify.app/).
 
 ## Installation
-To install and set up the Oxford Royale Academy Project locally, follow these steps:
+To install and set up the Trillo-Project locally, follow these steps:
 
 ```bash
 # Clone the repository
