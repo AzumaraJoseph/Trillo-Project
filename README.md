@@ -22,10 +22,9 @@ npm install
 # or if you use yarn
 yarn install
 
-## Bootstrap the application
-npm start
 ```
-
+## Development server
+Run `npm start` for a dev server. Navigate to `http://127.0.0.1:8080/`. The app will automatically reload if you change any of the source files.
 
 ## Forked From
 This project is forked from [Original Repository](https://github.com/jonasschmedtmann/advanced-css-course/tree/master/Trillo).
